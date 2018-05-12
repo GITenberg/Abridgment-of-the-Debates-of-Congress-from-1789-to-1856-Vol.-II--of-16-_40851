@@ -1,0 +1,32 @@
+_repo: Abridgment-of-the-Debates-of-Congress-from-1789-to-1856-Vol.-II--of-16-_40851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Congress
+    gutenberg_agent_id: '45864'
+    url: http://www.gutenberg.org/2009/agents/45864
+  editor:
+    agent_name: Benton, Thomas Hart
+    alias: Benton, Thomas H. (Thomas Hart)
+    birthdate: 1782
+    deathdate: 1858
+    gutenberg_agent_id: '378'
+    url: http://www.gutenberg.org/2009/agents/378
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hart_Benton_(senator)
+description: ''
+gutenberg_issued: '2012-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KF'
+- !lcsh 'United States -- Politics and government'
+title: Abridgment of the Debates of Congress, from 1789 to 1856, Vol. 2 (of 16)
+url: http://www.gutenberg.org/ebooks/40851
